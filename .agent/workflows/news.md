@@ -2,6 +2,8 @@
 description: Run the News Agent to gather and summarize news
 ---
 
+// turbo-all
+
 1. For each URL in the "News Sources" section below:
     * Use the `browser_subagent` to open the URL.
     * Extract the main content and headlines.
@@ -12,6 +14,7 @@ description: Run the News Agent to gather and summarize news
     - The summary must link to the source material when discussing any topic.
     - Topics that appear in multiple news sources should be prioritized higher in the summary.
     - When summarizing a topic referenced in multiple sources, the must also call out differences in coverage between the sources.
+    - When done with an article, the agent must close the browser window.
 4. Get the current date in `YYYY-MM-DD` format.
 5. Create a new markdown file news/YYYY-MM-DD.md in this workspace.
 6. Write the summary to that file, including links to the original articles.

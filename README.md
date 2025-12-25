@@ -8,6 +8,14 @@ Because it is using your browser, it can leverage your subscriptions to news sou
 
 The `.agent/workflows/news.md` file contains the instructions for the agent, and the workflow is roughly:
 
+## First time setup
+
+1. Open Antigravity User Settings
+2. Go to "Browser"
+3. Browser Javascript Execution Policy: Always Proceed
+
+## Daily usage
+
 1. Open this in Antigravity (does it work in Claude Code? IDK).
 2. Run `/news` in the agent console.
 3. Read the generated `news/YYYY-MM-DD.md` news summary.
