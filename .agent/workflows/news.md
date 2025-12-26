@@ -4,6 +4,7 @@ description: Run the News Agent to gather and summarize news
 
 // turbo-all
 
+1. Make a directory in news/YYYY-MM-DD for the current day, and a news/YYYY-MM-DD/article-summaries
 1. For each URL in the "News Sources" section below:
     * Use the `browser_subagent` to open the URL.
     * Extract the main content and headlines.
@@ -24,10 +25,10 @@ description: Run the News Agent to gather and summarize news
 
 Visit the following news sites and look at the top articles:
 
-- https://www.nytimes.com/section/todayspaper : Visit the top 20 articles
-- https://www.wsj.com/ : Visit the top 20 articles
-- https://www.marketplace.org/ : Visit the top 10 articles
-- https://www.axios.com/ : Visit the top 10 articles
+- https://www.nytimes.com/section/todayspaper : Visit the top 4 articles
+- https://www.wsj.com/ : Visit the top 4 articles
+- https://www.marketplace.org/ : Visit the top 2 articles
+- https://www.axios.com/ : Visit the top 2 articles
 
 ## Topics of Interest
 
