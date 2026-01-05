@@ -17,7 +17,7 @@ description: Run the News Agent to gather and summarize news
     - When done with an article, the agent must close the browser window.
 4. Get the current date in `YYYY-MM-DD` format.
 5. Create a new markdown file news/YYYY-MM-DD.md in this workspace.
-6. Write the summary to that file, including links to the original articles.
+6. Write the summary to that file, including links to the original articles. Links must not be in the format of numbers (i.e. `[5.1](https://nytimes.com/abc-def-ghi)` is bad, instead have informative link text like `[NY Times article on ABC DEF GHI](https://nytimes.com/abc-def-ghi)`).
 7. Notify the user that the news summary is ready.
 
 ## News Sources
