@@ -1,0 +1,9 @@
+# Rubio Tells Lawmakers Trump Aims to Buy Greenland
+
+Secretary of State Marco Rubio recently briefed lawmakers on President Trump’s objective to acquire Greenland from Denmark, framing the move as a major national security priority. Rubio sought to downplay concerns about imminent military action, characterizing the pursuit as a negotiated acquisition aimed at deterring adversaries in the Arctic. However, the administration’s stance remains multifaceted, as White House press secretary Karoline Leavitt noted that military force remains an option if diplomatic efforts fail to yield progress.
+
+The proposal has sparked significant alarm within the NATO alliance, with member nations warning that any military move toward Greenland could effectively end the trans-Atlantic partnership. Despite these warnings, some congressional allies like Senator Lindsey Graham have defended the administration's approach, suggesting that negotiations could justify a long-term U.S. presence and infrastructure development on the island. Current polling indicates that most Greenlandic citizens are opposed to the idea of becoming part of the United States, presenting a significant hurdle to any peaceful transition.
+
+This push for Greenland occurs against a backdrop of aggressive U.S. foreign policy actions, including the recent capture of Nicolás Maduro and various military strikes in the Middle East and Africa. During a closed-door briefing with Defense Secretary Pete Hegseth and Joint Chiefs Chair Gen. Dan Caine, Rubio emphasized that the administration’s focus is on securing strategic advantages. The administration views the Arctic as an increasingly critical theater for competition with Russia and China, making the acquisition of Greenland a centerpiece of its defensive strategy.
+
+Source: [WSJ](https://www.wsj.com/politics/national-security/rubio-tells-lawmakers-trump-aims-to-buy-greenland-downplays-military-action-5c94e05c?mod=hp_lead_pos2)

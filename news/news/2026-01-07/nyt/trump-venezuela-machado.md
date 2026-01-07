@@ -1,0 +1,11 @@
+# Trump, Venezuela, and Machado
+
+In a significant shift from previous U.S. policy, President Trump has decided not to support Maria Corina Machado, the prominent Venezuelan opposition leader, as the nation’s next president. Despite Machado’s efforts to align herself with Trump—including dedicating her Nobel Peace Prize to him—U.S. intelligence officials and Trump’s inner circle expressed skepticism about her ability to govern effectively. This decision marks a sharp departure from the prior administration's stance and highlights Trump's preference for stability and oil production over the promotion of democratic ideals.
+
+The friction between the Trump administration and Machado stems from a breakdown in communication and trust. Officials reportedly felt that Machado’s assessments of Maduro’s weakness were consistently inaccurate, leading to a 'sour' relationship with key figures like Senator Marco Rubio. Instead of backing Machado, Trump has favored a more pragmatic approach, even considering Maduro’s Vice President, Delcy Rodriguez, as a transitional figure to maintain order and ensure the continued flow of oil during the transition period.
+
+This move has left many in the Venezuelan opposition and their international supporters reeling. Machado’s exclusion from the U.S. plans for a post-maduro government suggests that Trump's 'maximum pressure' campaign is more about removing a hostile regime than installing a specific democratic alternative. The administration's focus on transactional outcomes—primarily securing Venezuela’s massive oil reserves for American interests—has superseded the 'freedom and democracy' rhetoric that characterized earlier U.S. involvement in the region.
+
+Statistics provided in various reports indicate that Venezuela’s oil production had plummeted under Maduro, but Trump believes a more hands-on, U.S.-guided transition can restore the country's status as a major global energy producer. By snubbing Machado, Trump is signaling to other regional actors that loyalty and ideological alignment are less valuable than the ability to deliver tangible economic and security results. This 'decisive break' underscores the unpredictable and outcome-oriented nature of Trump’s second-term foreign policy.
+
+Source: [NYT](https://www.nytimes.com/2026/01/05/us/politics/trump-venezuela-machado.html)

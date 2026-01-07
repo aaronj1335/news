@@ -1,0 +1,9 @@
+# Warner Bros. Discovery Rejects Paramount's Amended Hostile Bid
+
+Warner Bros. Discovery (WBD) has officially rejected an amended $77.9 billion all-cash hostile bid from Paramount, choosing instead to stick with its existing $72 billion merger agreement with Netflix. In a public letter to shareholders, the WBD board characterized Paramount's offer as 'inadequate' and argued that it did not provide comparable value when the associated risks were factored in. The board specifically highlighted that the Paramount proposal was essentially a massive leveraged buyout and carried significant uncertainty regarding its ability to close successfully.
+
+Following the rejection, WBD detailed the substantial financial penalties it would face if it walked away from the Netflix deal. These costs include a $2.8 billion termination fee payable to Netflix and an additional $1.5 billion fee for failing to complete a planned debt exchange. Paramount had attempted to sweeten its bid by including a $40.4 billion equity financing guarantee from billionaire Larry Ellison and matching Netflix’s $5.8 billion breakup fee, but these concessions were not enough to sway the Warner board from its current path.
+
+The battle for Warner Bros. Discovery underscores the intense competition in the streaming and media landscape, as companies vie for control over iconic assets like HBO Max and the studios behind franchises like Harry Potter. Netflix has expressed its continued commitment to the merger and is already working with antitrust regulators in the U.S. and Europe to gain approval. WBD shareholders have until January 21 to make a final decision on the Paramount tender offer, though the deadline could be extended further as the corporate showdown continues.
+
+Source: [WSJ](https://www.wsj.com/business/media/warner-discovery-rejects-paramounts-amended-hostile-bid-72ea199c?mod=hp_lead_pos4)
